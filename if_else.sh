@@ -11,7 +11,7 @@ fi
 # if use for open
 # comparision operator
 # -eq : equal
-# -nq : not equal
+# -ne : not equal
 # -gt : greter then
 # -lt : less then
 # -ge : greater or equal
